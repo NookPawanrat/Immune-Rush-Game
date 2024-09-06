@@ -1,5 +1,5 @@
 # Immune Rush Game 💉🩸
-   Immune Rush is a top-down shooter video game and RPG with the theme of the immune system inside the human body with an action-adventure lighthearted tone. The player is a white blood cell, a protector of the human body, fighting off enemy invaders like bacteria, viruses, and other pathogens. Protect our body in many missions by killing enemies, gaining XP, choosing perks, unlocking weapons, and upper levels to win.  
+   Immune Rush is a top-down shooter and RPG video game with the theme of the immune system inside the human body with an action-adventure lighthearted tone. The player is a white blood cell, a protector of the human body, fighting off enemy invaders like bacteria, viruses, and other pathogens. Protect our body in many missions by killing enemies, gaining XP, choosing perks, unlocking weapons, and upper levels to win.  
 
 ## Core Mechanics 
 - Player move and health bar.  
