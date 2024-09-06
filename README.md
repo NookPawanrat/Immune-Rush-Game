@@ -24,7 +24,7 @@
 
 ![Ref-ArtStyle-Immune Rush](https://github.com/user-attachments/assets/c0fc025c-b851-4b62-895d-9ba1752a4147)
 
-**[Battle Bunny game](https://apps.apple.com/us/app/battle-bunny-tower-defense-war/id1497484147) as the reference of the art style**
+**[Battle Bunny game](https://apps.apple.com/us/app/battle-bunny-tower-defense-war/id1497484147) as the reference of the art style.**
 
 ![ArtStyle01-Battle Bunny](https://github.com/user-attachments/assets/f4f5859d-35f1-4799-93ed-9ecc4237e886)
 ![ArtStyle02-Battle Bunny](https://github.com/user-attachments/assets/8e47bed8-6844-4de4-b9a6-80875bdc2194)
@@ -40,7 +40,7 @@ The graphic video describes the immune system.
 ![Mood-Immunesystem](https://github.com/user-attachments/assets/d9792560-3b6a-4d86-9cdc-08aa6d4c83d0)
 
 
-The Japanese anime ["Cells at Work"](https://www.youtube.com/watch?v=1xgodAOKWM8), is a story about the cells inside the human body.
+The Japanese anime ["Cells at Work"](https://www.youtube.com/watch?v=1xgodAOKWM8), is a story about the cells inside the human body fighting with bacteria, viruses, and other pathogens to protect human health. 
 
 ![Mood-CellsAtWork](https://github.com/user-attachments/assets/b75f4271-4c14-4b14-a67c-42961421a1bc)
 ![Mood-CellsAtWork2](https://github.com/user-attachments/assets/a4f76dd5-ada5-4c7c-905d-f1856173fa91)
