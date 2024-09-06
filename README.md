@@ -10,14 +10,18 @@
 - Battlefield of each mission. 
 
 # Gameplay  
-The gameplay scenario is inspired by Crimsonland but in a playful, and approachable visual style. On the battlefield, Players have a  gun that shoot automatically by controlling the direction of the player to aim the gun to the enemies. Killing the enemies to gain more XP then upgrade the weapon or receive the special weapon for more power to attack.
-![crimsonland](https://github.com/user-attachments/assets/7438db02-f3db-42c4-9fa1-bec051116ef3)
-![ss_bd5ec8f718a4382e134e5674d23228ce16ccb1d2 1920x1080](https://github.com/user-attachments/assets/167781aa-79b5-409e-abaf-ce3769db3d97)
+The gameplay scenario is a battlefield that acts like an inside the human body, Players have a gun that shoots automatically by controlling the direction of the player to aim the gun at the enemies. Killing the enemies to gain more XP then upgrade the weapon or receive the special weapon for more power to attack and kill all the enemies to win the mission. The gameplay scenario is inspired by [Crimsonland](https://store.steampowered.com/app/262830/Crimsonland/?l=polish) but in a playful, and more approachable visual style. 
+![Ex1-Gameplay-ImmuneRush](https://github.com/user-attachments/assets/b059b42c-395f-441c-9c32-6dee6e1d876c)
+![Ex2-Gameplay-ImmuneRush](https://github.com/user-attachments/assets/76d4f4b0-d53e-4cc0-9ef9-50f30d6756e8)
+
 
 # Music
-Adventure, Exciting, lighthearted 
+The music during the battlefield of Immune Rush guides the player’s emotions to the moments of adventure with danger in the fast-paced, ever-changing world inside the human body, every mission feels exciting and engaging. Also, the victories or celebrations music supports the feeling of the winner like a hero.
 
 # Art Style 
 Doodle Art and 2D Illustrator
-![Screenshot 2024-09-06 155932](https://github.com/user-attachments/assets/7fe6acc2-e861-4023-ab51-415c2a112edd)
-![Screenshot 2024-09-06 155824](https://github.com/user-attachments/assets/93f5c5dd-fb0c-4e98-8ac9-89f13b95c478)
+The reference of art style is [Battle Bunny game](https://apps.apple.com/us/app/battle-bunny-tower-defense-war/id1497484147)  
+
+![ArtStyle01-Battle Bunny](https://github.com/user-attachments/assets/f4f5859d-35f1-4799-93ed-9ecc4237e886)
+![ArtStyle02-Battle Bunny](https://github.com/user-attachments/assets/8e47bed8-6844-4de4-b9a6-80875bdc2194)
+
