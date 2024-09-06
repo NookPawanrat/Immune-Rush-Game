@@ -18,7 +18,7 @@
   The music during the battlefield guides the player’s emotions to the moments of action-adventure tone in the fast-paced, ever-changing world inside the human body, every mission feels exciting and engaging. Also, the victories or celebrations music supports the feeling of the winner like a hero. 
 
 ## Art Style 
-  Doodle Art and 2D Illustration style make an action-adventure game have a playful and approachable visual style. We take the Battle Bunny game as the reference for the art style Please check the links below.
+  Doodle Art and 2D Illustration style make an action-adventure game have a playful and approachable visual style. We take the Battle Bunny game as the reference for the art style. Please check the links below.
   
 ### Reference Art Style of Immune Rush  
 
