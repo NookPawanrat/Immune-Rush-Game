@@ -8,7 +8,7 @@
 - Battlefield of each mission. 
 
 ## Gameplay  
-  The gameplay scenario is a battlefield that acts like an inside the human body, Players have a gun that shoots automatically by controlling the direction of the player to aim the gun at the enemies. Killing the enemies to gain more XP then upgrade the weapon or receive the special weapon for more power to attack and kill all the enemies to win the mission. The gameplay scenario is inspired by [Crimsonland](https://store.steampowered.com/app/262830/Crimsonland/?l=polish) but in a playful, and more approachable visual style. 
+  The gameplay scenario is a battlefield that simulates the situation inside the human body, Players have a gun that shoots automatically, controlling the direction of the player to aim the gun at the enemies. Killing the enemies to gain more XP then upgrade the weapon or receive the special weapon for more power to attack and kill all the enemies to win the mission. The gameplay scenario is inspired by [Crimsonland](https://store.steampowered.com/app/262830/Crimsonland/?l=polish) but in a playful, and more approachable visual style. 
 
 ![Ex1-Gameplay-ImmuneRush](https://github.com/user-attachments/assets/b059b42c-395f-441c-9c32-6dee6e1d876c)
 ![Ex2-Gameplay-ImmuneRush](https://github.com/user-attachments/assets/76d4f4b0-d53e-4cc0-9ef9-50f30d6756e8)
