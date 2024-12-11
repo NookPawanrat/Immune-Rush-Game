@@ -23,8 +23,7 @@ Stay tuned for the gameplay guide and demo video!
 Language: C#.
 Engine: Unity.
 
-## 📢 Follow for Updates
-Portfolio: [Link to your website]
-Contact: pawanrat.santiyanon@gmail.com
+## 📢 Contact
+Email: pawanrat.santiyanon@gmail.com
 
 
