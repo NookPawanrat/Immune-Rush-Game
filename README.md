@@ -13,17 +13,17 @@ Immune Rush is a fun and fast-paced top-down shooter game set inside the human b
 ## 🎯Target Platform
 PC: Available for free download on [Itch.io.](https://itch.io/)
 
-##📅 Launch Plan
+## 📅 Launch Plan
 Expected Release Date: December 2024 (before Christmas).
 
-##✨ How to Play (Coming Soon)
+## ✨ How to Play (Coming Soon)
 Stay tuned for the gameplay guide and demo video!
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 Language: C#.
 Engine: Unity.
 
-##📢 Follow for Updates
+## 📢 Follow for Updates
 Portfolio: [Link to your website]
 Contact: pawanrat.santiyanon@gmail.com
 
