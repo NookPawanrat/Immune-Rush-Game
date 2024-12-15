@@ -6,7 +6,7 @@ Get ready for Immune Rush, a fast-paced, action-packed top-down shooter set insi
 🎮 You’ll step into the shoes of a brave white blood cell, battling waves of nasty invaders like viruses, bacteria, and parasites. 🦠
 
 ### 🎯 Platform
-Available for play in browser [Itch.io.]([https://itch.io/](https://pawanratsantiyanon.itch.io/immune-rush))
+Available for play in browser [Itch.io.](https://pawanratsantiyanon.itch.io/immune-rush)
 
 ### Core Features
 ⚡ Non-Stop Action: Shoot enemies and level up your skills to become the ultimate immune defender!<br/>
