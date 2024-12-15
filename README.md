@@ -1,29 +1,29 @@
-# Immune Rush Game 💉🎮
+# Immune Rush 🦠🎮
 Status: 🚧 In Progress – Launching Before 🎄 Christmas!
 
 ## 🌟 About the Game
-Immune Rush is a fun and fast-paced top-down shooter game set inside the human body! Step into the role of a heroic white blood cell and defend the body from harmful pathogens like viruses, bacteria, and parasites.
+Get ready for Immune Rush, a fast-paced, action-packed top-down shooter set inside the human body! <br/>
+🎮 You’ll step into the shoes of a brave white blood cell, battling waves of nasty invaders like viruses, bacteria, and parasites. 🦠
 
-### Key Features
-⚡ Fast-Paced Action: Shoot, dodge, and level up your skills!<br/>
-🎨 Doodle Art Style: Lighthearted visuals that make science playful.<br/>
-🧬 Educational Twist: Learn about the immune system while having fun.<br/>
-🏆 Boss Fights & Perks: Take on bosses, unlock cool weapons, and enhance your abilities.
+### 🎯 Platform
+Available for play in browser [Itch.io.]([https://itch.io/](https://pawanratsantiyanon.itch.io/immune-rush))
+
+### Core Features
+⚡ Non-Stop Action: Shoot enemies and level up your skills to become the ultimate immune defender!<br/>
+🎨 Adorable Doodle Art Style: The game’s lighthearted visuals make saving the body both fun and playful.<br/>
+
+### Gameplay Highlights
+🚀 Start Your Mission: Fight off waves of enemies to keep the body safe.<br/>
+💥 Auto-Shooting: Focus on movement and strategy while your character handles the shooting.<br/>
+✨ Level Up & Earn Score: Defeat enemies to collect score and level up your abilities.<br/>
+🎁 Pick Your Perk: After leveling up, choose from two perks to customize your playstyle!<br/>
+
    
-### 🎯Target Platform
-PC: Available for free download on [Itch.io.](https://itch.io/)
+### 🛠️ Development
+This project was built using Unity and C#, with visuals created in Adobe Photoshop and Illustrator.
 
-### 📅 Launch Plan
-Expected Release Date: December 2024 (before Christmas).
-
-### ✨ How to Play (Coming Soon)
-Stay tuned for the gameplay guide and demo video!
-
-### 🛠️ Tech Stack
-Language: C#.
-Engine: Unity.
-
-## 📢 Contact
-Email: pawanrat.santiyanon@gmail.com
-
-
+## 📢 Credits 
+Game Design and Programming by [Pawanrat Santiyanon](https://www.linkedin.com/in/pawanrat-santiyanon/)<br/>
+Artwork by [Pawanrat Santiyanon](https://www.linkedin.com/in/pawanrat-santiyanon/)<br/>
+Human character design by Freepik<br/>
+Music and sound effects by Zapsplat<br/>
