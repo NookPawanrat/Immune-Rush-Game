@@ -1,5 +1,7 @@
 # Immune Rush 🦠🎮
 Status: Released 🎊
+Available for play in the browser on itch.io. <br/>
+👉 [Immune Rush Game](https://pawanratsantiyanon.itch.io/immune-rush)
 
 ## 🌟 About the Game
 Get ready for Immune Rush, a fast-paced, action-packed top-down shooter set inside the human body! <br/>
