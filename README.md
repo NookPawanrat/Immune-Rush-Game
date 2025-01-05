@@ -28,5 +28,4 @@ This project was built using Unity and C#, with visuals created in Adobe Photosh
 ## 📢 Credits 
 Game Design and Programming by [Pawanrat Santiyanon](https://www.linkedin.com/in/pawanrat-santiyanon/)<br/>
 Artwork by [Pawanrat Santiyanon](https://www.linkedin.com/in/pawanrat-santiyanon/)<br/>
-Human character design by Freepik<br/>
 Music and sound effects by Zapsplat<br/>
