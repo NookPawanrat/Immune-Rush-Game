@@ -5,7 +5,7 @@ Available for play in the browser on itch.io. 👉🎮 [Play Immune Rush Game ](
 [![Watch the video](https://img.youtube.com/vi/hD893ucfkR0/0.jpg)](https://www.youtube.com/watch?v=hD893ucfkR0) <br/>
 
 ## 🌟 About the Game
-Get ready for Immune Rush, a fast-paced, action-packed top-down shooter set inside the human body! <br/>
+Immune Rush is a fast-paced, action-packed top-down shooter set inside the human body! <br/>
 🎮 You’ll step into the shoes of a brave white blood cell, battling waves of nasty invaders like viruses, bacteria, and parasites. 🦠
 
 ### 🎯 Platform
