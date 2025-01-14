@@ -2,7 +2,7 @@
 Status: Released 🎊
 Available for play in the browser on itch.io. <br/>
 👉 [Immune Rush Game](https://pawanratsantiyanon.itch.io/immune-rush)
-
+[Watch the game trial!](https://www.youtube.com/watch?v=hD893ucfkR0) 
 [![Watch the video](https://img.youtube.com/vi/hD893ucfkR0/0.jpg)](https://www.youtube.com/watch?v=hD893ucfkR0)
 
 ## 🌟 About the Game
